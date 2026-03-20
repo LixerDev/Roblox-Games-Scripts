@@ -13,6 +13,8 @@
 
 ---
 
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
+
 ## 📂 Overview
 
 This repository serves as a comprehensive archive of the internal logic used in popular Roblox games. Designed for the community, these scripts cover everything from **physics-based mechanics** to **complex monetization systems**.
