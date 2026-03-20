@@ -64,30 +64,6 @@ To implement these scripts into your own **Roblox Studio** project, follow this 
              ├─> Modules        ───────────▶ ReplicatedStorage
              └─> UI Elements    ───────────▶ StarterGui
 
-Para que este repositorio no solo parezca una simple descarga, sino una **librería técnica de referencia** que atraiga a otros desarrolladores de Roblox, vamos a expandir el `README.md`.
-
-He añadido secciones de **Arquitectura**, una tabla de **Juegos Incluidos** y una guía de **Mejores Prácticas**. Esto hará que el proyecto se vea mucho más serio y profesional.
-
-Aquí tienes el contenido expandido para tu archivo:
-
------
-
-````markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/Roblox-Open_Source-E2231A?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Badge" />
-  <img src="https://img.shields.io/badge/Language-LuaU-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
-  <img src="https://img.shields.io/badge/Studio-Ready-34d399?style=for-the-badge" alt="Ready" />
-</p>
-
-<h1 align="center">Ultimate Roblox Game Scripts Archive</h1>
-
-<p align="center">
-  <strong>A professional-grade repository of core logic and scripts from top-tier Roblox experiences.</strong><br/>
-  High-quality LUAs for developers, researchers, and creators.
-</p>
-
----
-
 ## 📂 Overview
 
 This repository serves as a comprehensive archive of the internal logic used in popular Roblox games. Designed for the community, these scripts cover everything from **physics-based mechanics** to **complex monetization systems**.
